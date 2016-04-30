@@ -14,9 +14,23 @@ dictionary:
     catenate
   cd:
     change directory
+  chown:
+    change owner
   chmod:
     change mode
   vim:
     vi improved
   ls:
     list segments
+  grep:
+    globally search a regular expression and print
+  rm:
+    remove
+  mv:
+    move
+  cp:
+    copy
+  su:
+    super user
+  sudo:
+    super user do
